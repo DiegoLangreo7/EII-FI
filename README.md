@@ -50,5 +50,6 @@ cd EII-FI
 python PyMail©/PyMail.py
 ```
 
+---
 ## Autor
-[Diego García González](https://github.com/DiegoLangreo7)
+[DiegoLangreo7](https://github.com/DiegoLangreo7)
